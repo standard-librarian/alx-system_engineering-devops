@@ -1,3 +1,2 @@
 #!/bin/bas
 ls -l --numeric-uid-gid
-h
