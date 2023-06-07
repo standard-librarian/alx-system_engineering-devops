@@ -1,2 +1,3 @@
-#!/bin/bash
-ls -la
+#!/bin/bas
+ls -l --numeric-uid-gid
+h
